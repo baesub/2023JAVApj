@@ -11,7 +11,10 @@
 조회*** 할 수 있습니다.
 
 
-<img src="https://img.shields.io/badge/프로젝트 기능-61DAFB?style=flat&logo=Java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/프로젝트 기능-61DAFB?style=flat&logo=Java&logoColor=white&font-size:300px"/>
+
+
 ---
 # [회원 추가]
 1. 관리자는 회원을 **추가**할 수 있습니다.
