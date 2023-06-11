@@ -30,11 +30,11 @@
 3. **남, 여를 구별**하여 **조회** 할 수 있습니다.
 4. **id + 성별**을 **조건**으로 **조회** 할 수 있습니다.
 
-# 참고 소스 (기존 화면)
+# 참고 소스 (기존 메인 화면)
 ![image](https://github.com/baesub/2023JAVApj/assets/113866062/96365634-6ad3-4186-845f-3906e256d69c)
 ### 참고 사이트: https://m.blog.naver.com/javaking75/140190272629
 
-# 변경 후 
+# 변경 후 메인 화면
 ![image](https://github.com/baesub/2023JAVApj/assets/113866062/147b9301-35ff-4dd7-b21d-33befb37c5f6)
 
 
