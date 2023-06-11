@@ -1,9 +1,7 @@
 <!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=2023%20자바프로젝트&fontAlign=70&rotate=13&fontAlignY=25&desc=202206003%20배수빈&descAlign=70.&descAlignY=44) -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=JDBC를이용한%20GUI 회원관리프로그램&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=JDBC를이용한%20GUI회원관리프로그램&fontSize=90)
 
-
-# JDBC 를 이용한 GUI 회원관리프로그램
 
 # 프로젝트 소개
 > 회원 관리 프로그램은 ***관리자의 입장에서 사용되는
