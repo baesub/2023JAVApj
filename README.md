@@ -2,6 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=JDBC%20회원관리프로그램&fontSize=80)
 
+# JDBC를 이용한 GUI 회원관리 프로그램
 
 # 프로젝트 소개
 > 회원 관리 프로그램은 ***관리자의 입장에서 사용되는
@@ -13,9 +14,8 @@
 
 
 
-<img src="https://img.shields.io/badge/프로젝트 기능-61DAFB?style=flat&logo=Java&logoColor=white&font-size:300px"/>
 
-
+#프로젝트 기능
 ---
 # [회원 추가]
 1. 관리자는 회원을 **추가**할 수 있습니다.
